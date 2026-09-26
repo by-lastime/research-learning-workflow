@@ -1,0 +1,167 @@
+{
+  "snapshot_date": "2026-09-26",
+  "kind": "open-source-snapshot",
+  "files": [
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/SKILL.md",
+      "sha256": "e80948a1183c166e68cd01c5c7da69983a88a0735d361fedaddc8438ff937266",
+      "bytes": 3765
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/references/evidence-rules.md",
+      "sha256": "3c7e62a299c9db364ff22321d5e75c34f8161bf86699de90fa89792eeaa71391",
+      "bytes": 1324
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/references/project-map.md",
+      "sha256": "69c0f0f461b85510acb859060c774dc4e5cf2a2b81904a7f6c22897febad3b15",
+      "bytes": 2439,
+      "original_sha256": "3c863b6bffa8840b326ffb31b2f24dd8ebce1ba3d3171521702d3b52bd0afc2b",
+      "modified_for_publication": true
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/references/teaching-loop.md",
+      "sha256": "72609ad9a45e9c06dcd3d590250a2ee7b04ac821487a990b73894250f4d50bba",
+      "bytes": 3900
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/references/assessment-state.md",
+      "sha256": "0c7e5bd9cf007f816ba815abd72c741567d3ae2b9e34b1b73fb05bfdc5cb6306",
+      "bytes": 3327
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/references/math-code-lab.md",
+      "sha256": "2ccc3d1b74d01e276af87f30997f9d7459c93be468d6ba6e479d21f65b2c4d6a",
+      "bytes": 2900
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": ".agents/skills/yang-lab-research-tutor/agents/openai.yaml",
+      "sha256": "5fffa8b4498ad2f61eacd08e67a9f0ec6e1d432cd4c16f43f42c427190163083",
+      "bytes": 404
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/工具/ocr_images.py",
+      "sha256": "5b36b57b8e0a34c4b4f0802d165444951bf4fd03a5bad9c94b14a072931fa7be",
+      "bytes": 1202
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/工具/fetch_materials.py",
+      "sha256": "022718235806b2049530c279607e471082cdd506ae8dfc3a1f667024efad4f50",
+      "bytes": 8882
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/工具/clean_url09_docx.py",
+      "sha256": "296b247db50482f4ea897aaa7d1cf1e8201ae37a7e78afbb7ac26eab30c5c9da",
+      "bytes": 5322
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/工具/clean_zhihu_article_docx.py",
+      "sha256": "29d27917b2755dc3023fd877f723c242db69132a443203f0c4abc02e8248c7ec",
+      "bytes": 6087
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/README.md",
+      "sha256": "1f3b3bb09280a0ab4f8bda33d9954e13c861e191b94dca863dd13db17ef7c453",
+      "bytes": 245
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/完整数值流程_运行记录.json",
+      "sha256": "b07443d984c1b546cf4de41d7f58c6e03ae8b209a83540239b9cc24b0312820f",
+      "bytes": 98802
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/完整数值流程.py",
+      "sha256": "efd1b91c1d7d778be8ecb0dd3b9ee704d83205b708265b94bffccb898e6d33e3",
+      "bytes": 7513
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/04_设计原理验证.py",
+      "sha256": "694c455552d59c0146bb4a2ab81c4004d864fc0f877c0f3d28a7d1fd487814a2",
+      "bytes": 5851
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/03_shape与训练更新.py",
+      "sha256": "00be0fa8b98ab3dc151b8067e330dc93d369fd7daff24e5ba62f165d16e78bfb",
+      "bytes": 6346
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/05_训练状态与指标验证.py",
+      "sha256": "ee6401366048eb68f889b3db82766265bac8da57b89a7036677fae6ae57504f5",
+      "bytes": 3164
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/04_设计原理验证_运行记录.json",
+      "sha256": "4946d46fbe022cb5293a227dc16cc1e877d9ba5b064f4e7abd82b7320dbd1b5f",
+      "bytes": 12959
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/05_训练状态与指标验证_运行记录.json",
+      "sha256": "df5f9de97f90344fe69ea4a6b733d0006a4da5f283a8b7a7ac2324f68e0e43b7",
+      "bytes": 3212
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/01_Attention/03_shape与训练更新_运行记录.json",
+      "sha256": "2cfa2b85585dfc670fcee194ddb0ee2bde70c67f948956e5d29e5dd55988a1fa",
+      "bytes": 94246
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/00_阶段0基础补缺/00_环境验证记录.md",
+      "sha256": "a9af58ad89b8b318727dc980dd27375f83ce4213e89a94b1f4ad2bef4c100cae",
+      "bytes": 664,
+      "original_sha256": "52bc401acc216736dcb1dcc3f4d0fc28ae9c25d60a57fae155fdbae4f8a3adae",
+      "modified_for_publication": true
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/02_DDPM/01_加噪训练与单步采样.py",
+      "sha256": "303d9950018a79ebc5338f797bcb66426cfb01ab739d88db5a6f03323cc7e757",
+      "bytes": 7220
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/07_代码实践/02_DDPM/01_加噪训练与单步采样_运行记录.json",
+      "sha256": "96612761df69ebff970ae6a62f531437c046d330e58ff5e46bf5e880d5f118d7",
+      "bytes": 5676
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/04_正式学习路线/10_MD单文件学习工作流.md",
+      "sha256": "9c0de5adcde2fad098d52c9e333901b9adc64c3acca0f2fc726fcf48ae708a3d",
+      "bytes": 2040
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/04_正式学习路线/07_讲图与答辩验收标准.md",
+      "sha256": "1a2ed8cdb8755d6eb1c68aea481bbbf217654923d8430a3827693787905d5474",
+      "bytes": 2288
+    },
+    {
+      "repository": "research-learning-workflow",
+      "path": "资料库/04_正式学习路线/06_实验环境方案.md",
+      "sha256": "931a55360e56acbfa194fe845c9523e11a255095eec30e14929397a33e02c5b5",
+      "bytes": 1401
+    }
+  ],
+  "publication_date": "2026-09-26"
+}

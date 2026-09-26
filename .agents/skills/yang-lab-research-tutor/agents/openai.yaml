@@ -1,0 +1,7 @@
+interface:
+  display_name: "杨帅课题组论文讲图导师"
+  short_description: "按主题连续讲解论文，依据实际作答推进，兼顾原图机制与实验证据"
+  default_prompt: "使用 $yang-lab-research-tutor，根据当前学习入口和我的实际作答，按主题讲清论文并安排下一步，帮助我准备导师讲图与问答。"
+
+policy:
+  allow_implicit_invocation: true
